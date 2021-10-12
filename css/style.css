@@ -7,5 +7,12 @@ html{
     font-size: 14px; /* 1rem */
 }
 body{
-    background: aqua;
+  
+}
+.container{
+    max-width:900px;
+    margin:0 auto;
+}
+.fejlec{
+    background: url(../img/logo.jpg);
 }
